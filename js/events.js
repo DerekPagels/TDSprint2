@@ -3,5 +3,5 @@ const botonEnviar = document.querySelector('.botonenviar');
 botonEnviar.addEventListener(onclick, alertaBotonEnviar());
 
 function alertaBotonEnviar() {
-    alert('Gracias por contactarse con nosotros!')
+    alert('Gracias por contactarse con nosotros!');
 }
